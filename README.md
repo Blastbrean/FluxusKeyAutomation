@@ -3,6 +3,7 @@ Releases in the repository
 
 # Fluxus Key Automation
 <i>Automation for Fluxus Keys made in Rust</i>
+
 Report issues to our discord server: https://discord.gg/J93MDwH5
 
 # Showcase 
